@@ -30,7 +30,7 @@ This project involves building a sentiment analysis model using the **movie_revi
 You can install the required packages using pip:
 
 ```bash
-pip install nltk pandas scikit-learn
+
 <img width="461" alt="image" src="https://github.com/user-attachments/assets/d8f33a97-ce32-4c66-a0a0-a10d5111fdb4">
 
 
